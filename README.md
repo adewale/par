@@ -5,7 +5,7 @@ par is a Go library to process calls with the following characteristics:
 
 * calls will be processed in parallel 
 * parallelism may be optionally bounded
-* leverages Google's Context library to allow calls to be timed our or actively canceled
+* leverages Google's Context library to allow calls to be timed out or actively canceled
 
 ## Example - Coin Toss
 
